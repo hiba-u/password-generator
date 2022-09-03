@@ -25,7 +25,7 @@ h1 {
     color: #4ADF86;
 }
 
-p {
+#never-p {
     color: #D5D4D8;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -61,4 +61,14 @@ hr {
     background: #273549;
     border-radius: 6px;
     margin-right: 30px;
+}
+
+.password {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.password p {
+    color: #55F991;
 }
